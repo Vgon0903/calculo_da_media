@@ -5,13 +5,9 @@ CRIE UM ALGORITMO PARA CALCULAR AS MÉDIA FINAL DOS ALUNOS DA DISCIPLINA DE ALGO
 
 Início
 
-     Enquanto Existem disciplinas? Faça
-          Enquanto Existem alunos? Faça
-		Ler as notas de um aluno da disciplina em questão
-		Calcular a nota final
-		Exibir sua nota
-          Fim Enquanto
-     Fim Enquanto    
+PORTUGOL COMENTARIO FAZER...
+
+
 
 Fim
 

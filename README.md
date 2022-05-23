@@ -23,5 +23,6 @@ Fim Enquanto
 Fim
 
 --------------------------------------------------------
+![media_AC1_AC2_AG_AF](https://user-images.githubusercontent.com/103973688/169734109-e5c69266-daf3-4d52-bc47-f0ed1575d0db.png)
 
-![AC1,AC2,AF,AF fluxo](https://user-images.githubusercontent.com/103973688/168698742-194ff1d5-0713-4cbc-aefb-0c371d6da808.png)
+

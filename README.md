@@ -5,17 +5,17 @@ CRIE UM ALGORITMO PARA CALCULAR AS MÉDIA FINAL DOS ALUNOS DA DISCIPLINA DE ALGO
 
 Início
 
-Enquanto Existem notas? Faça
+  Enquanto Existem notas? Faça
 
-Ler as notas em cada uma das avaliações em questão
+  Ler as notas em cada uma das avaliações em questão
 
-Calcular a media final de acordo com o peso de cada avaliação
+  Calcular a media final de acordo com o peso de cada avaliação
 
-Exibir sua media
+  Exibir sua media
 
-Exibir se foi aprovado ou reprovado
+  Exibir se foi aprovado ou reprovado
 
-Exibir peso de cada avaliação
+  Exibir peso de cada avaliação
 
 Fim Enquanto    
 
